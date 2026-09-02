@@ -1,0 +1,2 @@
+total_orders,matched_orders,mismatched_orders,orders_without_payment,orders_without_items,avg_mismatch_brl,max_mismatch_brl
+99441,98362,303,1,775,10.79,182.81

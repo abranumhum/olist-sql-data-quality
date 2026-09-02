@@ -1,0 +1,4 @@
+customer_segment,customers,avg_orders_per_customer,total_revenue,avg_customer_lifetime_value
+One-time,90557,1.0,14555586.29,160.73
+2-5 orders,2791,2.1,855839.40,306.64
+6-20 orders,10,7.5,8348.06,834.81

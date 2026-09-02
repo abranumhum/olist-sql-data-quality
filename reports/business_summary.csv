@@ -1,0 +1,4 @@
+metric_name,source_value,analytical_value,difference,difference_pct
+total_line_items,112650,112650,0.00,0.00
+total_orders,99441,99441,0.00,0.00
+total_sales,15843553.24,15843553.24,0.00,0.00

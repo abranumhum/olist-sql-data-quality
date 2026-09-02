@@ -1,0 +1,30 @@
+check_name,issue_count
+timeline: delivered after estimate,7827
+products: missing category,610
+reviews: extra rows per order,551
+timeline: delivery before carrier handoff,23
+payments: zero value,9
+delivered orders: NULL delivery timestamp,8
+products: missing dimensions,2
+customers: duplicate customer_id,0
+order_items: NULL order_id,0
+order_items: NULL product_id,0
+order_items: NULL seller_id,0
+order_items: duplicate order/item key,0
+order_items: negative price or freight,0
+order_items: order not found,0
+order_items: product not found,0
+order_items: seller not found,0
+orders: NULL customer_id,0
+orders: NULL order_id,0
+orders: NULL purchase timestamp,0
+orders: customer not found,0
+orders: duplicate order_id,0
+orders: unexpected status,0
+payments: negative value,0
+payments: order not found,0
+products: duplicate product_id,0
+reviews: order not found,0
+reviews: score outside 1-5,0
+sellers: duplicate seller_id,0
+timeline: delivery before purchase,0
